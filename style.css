@@ -1,0 +1,25 @@
+.top-border {
+  background-color: #0f1111;
+  height: 3em;
+  width: 150%;
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  z-index: -1;
+}
+
+.top-main-search-bar {
+  display: inline-flex;
+  position: absolute;
+  left: 50%;
+  top: 1.5em;
+  transform: translate(-50%, -50%);
+}
+
+.main-search {
+  background-color: white;
+}
+
+.main-search-bar-search {
+  background-color: yellow;
+}
